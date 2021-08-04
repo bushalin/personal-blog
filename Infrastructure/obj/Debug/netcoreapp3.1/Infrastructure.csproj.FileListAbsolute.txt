@@ -1,9 +1,0 @@
-C:\Hasib\Projects\BhuiyanBlogClean\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
-C:\Hasib\Projects\BhuiyanBlogClean\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
-C:\Hasib\Projects\BhuiyanBlogClean\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
-C:\Hasib\Projects\BhuiyanBlogClean\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.AssemblyReference.cache
-C:\Hasib\Projects\BhuiyanBlogClean\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
-C:\Hasib\Projects\BhuiyanBlogClean\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
-C:\Hasib\Projects\BhuiyanBlogClean\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
-C:\Hasib\Projects\BhuiyanBlogClean\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
-C:\Hasib\Projects\BhuiyanBlogClean\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
