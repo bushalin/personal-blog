@@ -1,9 +1,0 @@
-C:\Hasib\Projects\BhuiyanBlogClean\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.deps.json
-C:\Hasib\Projects\BhuiyanBlogClean\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.dll
-C:\Hasib\Projects\BhuiyanBlogClean\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
-C:\Hasib\Projects\BhuiyanBlogClean\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csproj.AssemblyReference.cache
-C:\Hasib\Projects\BhuiyanBlogClean\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfoInputs.cache
-C:\Hasib\Projects\BhuiyanBlogClean\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfo.cs
-C:\Hasib\Projects\BhuiyanBlogClean\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csproj.CoreCompileInputs.cache
-C:\Hasib\Projects\BhuiyanBlogClean\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.dll
-C:\Hasib\Projects\BhuiyanBlogClean\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.pdb
